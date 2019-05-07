@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+		ADDED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+		ADDED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
+		INJECTED from /Users/weibiao/StudioProjects/markbook/sliding_menu_lib/AndroidManifest.xml
